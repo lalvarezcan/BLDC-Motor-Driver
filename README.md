@@ -34,8 +34,7 @@ The BLDC Motor Driver is a crucial component in the Mini Cheetah Actuator system
 
 ## Contributors
 
-- Ben Katz (Original MIT Mini Cheetah Actuator Design)
-- [Your Name/Organization](link) (Customizations/Enhancements)
+- Luis Avarez (CINVESTAV Guadalajara)
 
 ## License
 
@@ -43,5 +42,4 @@ This project is licensed under [MIT License](license.md).
 
 ## Acknowledgments
 
-- MIT Biomimetics Lab
-- Contributors to the BLDC Motor Driver project
+- Ben Katz (Original MIT Mini Cheetah Actuator Design)
