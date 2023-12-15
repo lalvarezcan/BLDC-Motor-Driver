@@ -4,7 +4,7 @@ This BLDC (Brushless DC) Motor Driver is designed specifically for use with the 
 
 ## Overview
 
-The BLDC Motor Driver is a crucial component in the Mini Cheetah Actuator system, responsible for managing the power and control signals sent to the brushless DC motors. It ensures smooth operation, speed control, and torque management for the actuators, contributing to the overall performance of the robotic system.
+The BLDC Motor Driver is a crucial component in the Quasi-Driect Drive (QDD) Actuator system, responsible for managing the power and control signals sent to the brushless DC motors. It ensures smooth operation, speed control, and torque management for the actuators, contributing to the overall performance of the robotic system.
 
 ## Features
 
