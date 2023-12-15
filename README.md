@@ -10,7 +10,7 @@ The BLDC Motor Driver is a crucial component in the Quasi-Driect Drive (QDD) Act
 
 - **Brushless DC Motor Control:** Offers precise control over the motors used in the Mini Cheetah Actuator.
 - **PWM (Pulse Width Modulation) Control:** Enables accurate speed control and torque management.
-- **Communication Interface:** Interfaces with the main control system via a specified communication protocol (e.g., SPI, I2C, UART).
+- **Communication Interface:** Interfaces with the main control system via a specified communication protocol (e.g., SPI, CAN, UART).
 - **Overcurrent and Overvoltage Protection:** Safeguards the system and motors against potential damage due to excessive current or voltage.
 
 ## Hardware Requirements
