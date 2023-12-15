@@ -38,7 +38,7 @@ The BLDC Motor Driver is a crucial component in the Mini Cheetah Actuator system
 
 ## License
 
-This project is licensed under [MIT License](license.md).
+This project is licensed under [MIT License](LICENSE.md).
 
 ## Acknowledgments
 
