@@ -1,6 +1,6 @@
 # BLDC Motor Driver for MIT Mini Cheetah Actuator
 
-This BLDC (Brushless DC) Motor Driver is designed specifically for use with the MIT Mini Cheetah Actuator, inspired by the work of Ben Katz. The driver is intended to efficiently control the Mini Cheetah's actuators, enabling precise and agile movements.
+This driver is designed specifically for use with the Quasi-Direct Driver (QDD) Actuators, inspired by the work of Ben Katz. The driver is intended to efficiently deliver power and control a BLDC Motor, enabling precise and agile movements.
 
 ## Overview
 
